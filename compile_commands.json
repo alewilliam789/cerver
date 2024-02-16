@@ -1,0 +1,62 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-isystem./include",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-g",
+      "test.c"
+    ],
+    "directory": "/home/alex/repos/c-what-you-can-do/web-server",
+    "file": "/home/alex/repos/c-what-you-can-do/web-server/test.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-isystem./include",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-g",
+      "server.c"
+    ],
+    "directory": "/home/alex/repos/c-what-you-can-do/web-server",
+    "file": "/home/alex/repos/c-what-you-can-do/web-server/server.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-isystem./include",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-g",
+      "request.c"
+    ],
+    "directory": "/home/alex/repos/c-what-you-can-do/web-server",
+    "file": "/home/alex/repos/c-what-you-can-do/web-server/request.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-isystem./include",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-g",
+      "handler.c"
+    ],
+    "directory": "/home/alex/repos/c-what-you-can-do/web-server",
+    "file": "/home/alex/repos/c-what-you-can-do/web-server/handler.c"
+  }
+]
